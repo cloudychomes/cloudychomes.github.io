@@ -13,9 +13,3 @@ plugins:
   - jekyll-feed
 
 show_excerpts: true
-
-minima:
-  social_links:
-    - platform: gab  # same as SVG filename.
-      user_url: "https://gab.com/cloudychomes"  # URL of profile page.
-      title:  My profile at gab.com  # Optional. Text displayed on hovering over link.
