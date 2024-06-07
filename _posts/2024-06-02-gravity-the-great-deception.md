@@ -6,7 +6,6 @@ categories: Flat Earth
 ---
 
 ![Cartoon Picture Of A Density Coloum](/assets/images/density-column-blog.png){: width="200" }
-
 ### Introduction
 Gravity, as we know it, is a fundamental force that keeps everything in place, right? Or so we've been told. But what if I told you that the concept of gravity, as presented to us by mainstream science, is a grand illusion? A deception designed to keep us in the dark about the true nature of our flat earth.
 
