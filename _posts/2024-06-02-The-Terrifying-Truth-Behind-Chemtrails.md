@@ -4,8 +4,8 @@ title:  "The Terrifying Truth Behind Chemtrails"
 date:   2024-06-02 08:04:43 +1200
 categories: Chemtrails
 ---
-![Cartoon Picture Of Chemtrails](/assets/images/sky-chemtrails-blog.png){: width="200" }
 
+![Cartoon Picture Of Chemtrails](/assets/images/sky-chemtrails-blog.png){: width="200" }
 ### Introduction
 The skies above us may not be as innocent as they appear. While many dismiss them as harmless contrails, there is an unsettling phenomenon known as chemtrails that continue to raise eyebrows and questions. These unnatural streaks across the sky have sparked intense debate and concern amongst the public, with many believing that they hold a more sinister purpose. From potential government cover-ups to the manipulation of our environment, the terrifying truth behind chemtrails cannot be ignored. Read on to delve into the compelling evidence surrounding this mysterious and frightening phenomenon.
 
