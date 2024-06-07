@@ -4,6 +4,7 @@ title:  "Gravity The Great Deception"
 date:   2024-06-02 08:24:43 +1200
 categories: Flat Earth
 ---
+
 ![Cartoon Picture Of A Density Coloum](/assets/images/density-column-blog.png){: width="200" }
 
 ### Introduction

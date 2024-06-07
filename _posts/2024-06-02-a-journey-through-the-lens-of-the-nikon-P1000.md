@@ -4,7 +4,9 @@ title:  "A Journey Through the Lens of the Nikon P1000"
 date:   2024-06-02 08:04:43 +1200
 categories: Flat Earth
 ---
+
 ![Nikon p1000 Camera](/assets/images/nikon-p1000-blog.png){: width="200" }
+
 ### Introduction
 Greetings, fellow truth-seekers! As we continue our quest to uncover the mysteries hidden from us by mainstream science and media, I present to you a groundbreaking revelation that will shake the very foundations of our understanding of the world. Using the state-of-the-art Nikon P1000 camera, I have endeavored to debunk the myth of a round Earth and expose the truth of our flat plane.
 
